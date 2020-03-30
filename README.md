@@ -1,1 +1,1 @@
-# covid19_twitter_weibo
+# A Multilingual COVID-19 Twitter and Weibo Dataset

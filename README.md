@@ -4,7 +4,7 @@ From Jan 20 to Mar 24
 Consists of user ID and microblog ID in the format "userID/microblogID"
 
 ## Citation
-`
+```
 @ARTICLE{2020arXiv200408145G,
        author = {{Gao}, Zhiwei and {Yada}, Shuntaro and {Wakamiya}, Shoko and
          {Aramaki}, Eiji},
@@ -17,4 +17,4 @@ Consists of user ID and microblog ID in the format "userID/microblogID"
         archivePrefix = {arXiv},
        eprint = {2004.08145}
 }
-`
+```

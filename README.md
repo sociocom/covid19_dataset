@@ -7,6 +7,11 @@ From Jan 20 to Aug 31
 
 ## About Weibo IDs
 Consists of user ID and microblog ID in the format "userID/microblogID"
+You can access through this URL (may require login):
+> https://weibo.com/userID/microblogID
+
+e.g.,
+> https://weibo.com/3349909324/Jiv9TciHq
 
 ## Citation
 If you think our dataset is useful, please refer to this paper:
